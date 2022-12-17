@@ -16,6 +16,7 @@ h1 {
 
 a {
   color: #c4170c;
+  text-decoration: none;
 }
 
 ul {
@@ -63,3 +64,15 @@ button {
 button:hover {
   background-color: darkgreen;
 }
+
+footer {
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-top: 30px;
+}
+
+footer p {
+  margin: 0;
+}
+
+

@@ -6,7 +6,8 @@
     "permissions": [
         "tabs",
         "activeTab"
-      ],
+    ],
+    "author": "lucas.infoarea@gmail.com", 
     "content_scripts": [
         {
             "matches": [
